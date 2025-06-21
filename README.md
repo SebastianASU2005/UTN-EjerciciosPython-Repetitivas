@@ -12,7 +12,7 @@ Este proyecto nació como parte de las actividades de aprendizaje para la materi
 
 ## 🚀 Contenido y Estructura
 
-El repositorio está organizado de forma intuitiva para facilitar tu progreso, con ejercicios clasificados por nivel de dificultad:
+El repositorio está organizado de forma intuitiva para facilitar tu progreso, con ejercicios clasificados por nivel de dificultad en total son 20 ejercicios:
 
 * **🟢 Ejercicios Fáciles:** Ideales para introducirte en la sintaxis y el uso fundamental de los bucles.
 * **🟠 Ejercicios Intermedios:** Desafíos que requieren un poco más de lógica y la combinación de diferentes conceptos.
@@ -20,8 +20,8 @@ El repositorio está organizado de forma intuitiva para facilitar tu progreso, c
 
 Para cada conjunto de ejercicios, encontrarás:
 
-* **`enunciados/`:** Archivos con los **problemas a resolver**. ¡Te animamos a intentar solucionarlos por tu cuenta antes de ver las respuestas! El aprendizaje es un proceso.
-* **`soluciones/`:** Cada ejercicio resuelto en Python incluye el **código fuente** y **comentarios detallados** que explican la lógica y el funcionamiento paso a paso, lo cual es ideal para entender la solución y aprender de ella.
+* **`enunciados`:** Archivos con los **problemas a resolver**. ¡Te animamos a intentar solucionarlos por tu cuenta antes de ver las respuestas! El aprendizaje es un proceso.
+* **`soluciones`:** Cada ejercicio resuelto en Python incluye el **código fuente** y **comentarios detallados** que explican la lógica y el funcionamiento paso a paso, lo cual es ideal para entender la solución y aprender de ella.
 
 ---
 
