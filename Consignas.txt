@@ -1,0 +1,61 @@
+Consignas Python
+
+🟢Nivel Facil
+
+1.Escribe un programa que imprima los números del 1 al 10 usando un bucle for.
+
+2.Suma de los primeros N números: Pide al usuario un número N y calcula la suma de todos los números desde 1 hasta N usando un bucle while.
+
+3.Tabla de multiplicar: Pide al usuario un número y muestra su tabla de multiplicar del 1 al 10.
+
+4.Números pares: Imprime todos los números pares del 0 al 20 usando un bucle.
+
+5.Contador regresivo: Haz un programa que imprima una cuenta regresiva desde 10 hasta 0.
+
+6.Validar entrada: Pide al usuario que ingrese un número positivo.Si ingresa un número negativo o cero, vuelve a pedirle hasta que ingrese uno válido.
+
+7.Suma de 5 números: Pide al usuario 5 números y calcula su suma.
+
+8.Promedio de N números: Pide al usuario cuántos números quiere ingresar (N) y luego pídele esos N números para calcular su promedio.
+
+9.Imprimir asteriscos: Pide al usuario un número y luego imprime esa cantidad de asteriscos en una sola línea.
+
+10.Factorial (básico): Calcula el factorial de un número pequeño (ej. 5), sin pedir entrada del usuario. (El factorial de 5 es 5×4×3×2×1=120)
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🟡Nivel intermedio
+
+11.Números primos: Pide al usuario un número y determina si es un número primo (solo divisible por 1 y por sí mismo).
+
+12.Secuencia de Fibonacci: Pide al usuario un número N e imprime los primeros N términos de la secuencia de Fibonacci.(La secuencia comienza con 0, 1, y cada término siguiente es la suma de los dos anteriores: 0, 1, 1, 2, 3, 5, ...)
+
+13.Invertir número: Pide al usuario un número entero y muestra el número invertido. Por ejemplo, si ingresa 123, debe mostrar 321.
+
+14.Cifras de un número: Pide al usuario un número entero y cuenta cuántas cifras tiene.
+
+15.Adivina el número: Genera un número aleatorio entre 1 y 100. Pide al usuario que adivine el número,dándole pistas si su intento es demasiado alto o demasiado bajo, hasta que acierte.
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+🔴Nivel Dificil
+
+16.MCD (Máximo Común Divisor): Pide al usuario dos números enteros y calcula su Máximo Común Divisor utilizando el algoritmo de Euclides (que se basa en repetidas divisiones).
+
+17.Patrón de asteriscos (pirámide): Pide al usuario un número N y dibuja una pirámide de asteriscos de N filas. Por ejemplo, para N=4:
+   *
+  ***
+ *****
+*******
+
+18.Número perfecto: Pide al usuario un número y determina si es un número perfecto. Un número perfecto es un entero positivo que es igual a la suma de sus divisores propios (excluyendo el propio número)
+Por ejemplo, 6 es un número perfecto porque sus divisores propios son 1, 2 y 3, y 1+2+3=6.
+
+19.Ejercicio: Aproximación de e^x mediante Serie de Taylor
+   Objetivo: Implementar la serie de Taylor para calcular una aproximación del valor de e^x.
+   La serie de Taylor para e^x es: e^x = 1 + x + (x^2 / 2!) + (x^3 / 3!) + ... + (x^n / n!)
+   Se pedirá al usuario el valor de 'x' y el número de términos 'n' a utilizar en la aproximación.
+   Restricción: No usar la función math.exp() de la librería math.
+
+20.Juego "FizzBuzz": Escribe un programa que imprima los números del 1 al 100. Pero para los múltiplos de tres, imprime "Fizz" en lugar del número, 
+y para los múltiplos de cinco, imprime "Buzz". Para números que son múltiplos tanto de tres como de cinco, imprime "FizzBuzz".

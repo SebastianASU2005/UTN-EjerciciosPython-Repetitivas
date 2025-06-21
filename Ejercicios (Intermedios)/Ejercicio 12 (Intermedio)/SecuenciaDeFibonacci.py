@@ -1,2 +1,0 @@
-#Secuencia de Fibonacci: Pide al usuario un número N e imprime los primeros N términos de la secuencia de Fibonacci. 
-# (La secuencia comienza con 0, 1, y cada término siguiente es la suma de los dos anteriores: 0, 1, 1, 2, 3, 5, ...)
